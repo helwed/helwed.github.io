@@ -2,7 +2,7 @@
 title: "Die Bewertung von Kohärenz und Kohäsion in narrativen DaF-Texten : eine korpusbasierte Untersuchung sprachlicher Einflussfaktoren"
 collection: publications
 permalink: https://ojs.tujournals.ulb.tu-darmstadt.de/index.php/zif/article/view/1172/1167
-date: 2022
+date: 01-01-2022
 venue: 'Zeitschrift für interkulturellen Fremdsprachenunterricht'
 paperurl: 'https://ojs.tujournals.ulb.tu-darmstadt.de/index.php/zif/article/view/1172/1167'
 citation: 'Wedig, H. & Strobl, C. (2022): Die Bewertung von Kohärenz und Kohäsion in narrativen DaF-Texten: Eine korpusbasierte Untersuchung sprachlicher Einflussfaktoren. Zeitschrift für Interkulturellen Fremdsprachenunterricht 27: 1, 369–396.'
