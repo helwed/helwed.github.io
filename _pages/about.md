@@ -82,3 +82,7 @@ Service and leadership
 ======
 * Apr 2011 - Jan 2019: Youth group leader
    * Herne, Germany
+* Apr 2015 - Jun 2019: Elected member of the students’ representatives (Linguistics)
+  * Ruhr University Bochum, Germany
+* Apr 2018 - Jun 2019: Speaker of the students’ representatives (Linguistics)
+  * Ruhr University Bochum, Germany
