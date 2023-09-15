@@ -7,6 +7,9 @@ venue: "Anela 2023, University of Antwerp"
 date: 2023-06-30
 location: "Antwerp, Belgium"
 ---
+ 
+
+
 **Abstract**
 
 We present a new learner corpus for the investigation of German as a foreign language (L2), Beldeko (Belgisches Deutschkorpus). Beldeko contains 301 summaries produced by writers with Dutch as first language (L1) (70,774 tokens). The corpus was created with the aim to investigate novice academic writing in German L2, more specifically, the characteristics of academic writing of writers with Dutch L1, which is a novelty in learner corpora. In this presentation, we will focus on the representativeness of Beldeko as a German learner corpus, especially with regard to selected cohesive devices, which are central to the advanced communicative competence of language learners.

@@ -7,6 +7,9 @@ venue: "6th Learner Corpus Research conference, Padua University"
 date: 2022-09-23
 location: "Padua, Italy"
 ---
+ 
+
+
 **Abstract**
 
 In this poster, we present a new learner corpus for investigating German as a foreign language (L2): Beldeko (Belgisches Deutschkorpus). The corpus was created to investigate academic writing in L2 German by advanced learners with Dutch as their first language (L1). It contains summaries produced by L1 Dutch writers. Although there are several learner L2 German corpora available, most of them are heterogeneous with regard to the learners’ L1s. This means that L1-specific characteristics of L2 German have not received due attention. One exception is the ALeSKo learner corpus (Zinsmeister & Breckle 2012), which consists of two subcorpora: L2 German essays written by L1 Chinese writers and comparable L1 German essays. The largest and best-known German learner corpus to date is the Falko corpus (Reznicek et al. 2012), which was compiled at the Humboldt−Universität zu
