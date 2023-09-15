@@ -3,11 +3,7 @@ layout: archive
 title: "PhD"
 permalink: /phd/
 author_profile: true
-redirect_from:
-  - /resume
 ---
-
-{% include base_path %}
 
 
 ##A corpus-based analysis of grammatical cohesion in L2 German: Insights into the effect of learners' native language on academic writing proficiency in a foreign language.
