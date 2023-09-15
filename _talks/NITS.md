@@ -1,9 +1,9 @@
 ---
-title: "The German Summary corpus (GerSumCo): A new resource for contrastive research into L2 German of advanced writers"
+title: "Varioversals in German-Dutch translation and L2 German writing: Annotation guidelines for co-reference and a case study"
 collection: talks
-type: "Poster"
+type: "Presentation"
 permalink: /talks/EuroSLA
-venue: "The 32nd Conference of the European Second Language Association"
-date: 2023-09-01"
-location: "Birmingham, UK"
+venue: "Meeting of the Network of Interdisciplinary Translation Studies in the Netherlands and Flanders, Leiden University"
+date: 2023-06-02"
+location: "Leiden, Netherlands"
 --- 

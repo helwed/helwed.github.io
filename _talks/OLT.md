@@ -7,6 +7,8 @@ venue: "Fehlerannotierte Lernerkorpora des Deutschen: Methodologie und Empirie"
 date: 2023-09-23
 location: "Online"
 ---
+
+
 **Abstract**
 
 Während Textkohärenz und -kohäsion direkten Einfluss auf die Verständlichkeit von Texten sowie die Bewertung dieser durch ExpertenInnen nehmen (s. Crossley & McNamara, 2010; Wedig & Strobl, 2022), fallen sie auch fortgeschrittenen Lernenden noch deutlich schwer (Crossley, Kyle & McNamara 2016; Lindström & Lubińska, 2022; Takač et al., 2020). So zeigen Studien, dass Lernende zum Beispiel durch ihre Erstsprache (L1) oder andere Fremd- oder Zweitsprachen in der Nutzung von Kohäsionsmitteln in der Fremdsprache (L2) beeinflusst werden können (Breindl, 2016; Hinkel, 2001). Der spezifisch lernersprachliche Gebrauch von Kohäsionsmitteln kann durch manuelle Annotation und anschließende Analyse untersucht werden. Dies ist das Ziel der vorliegenden Studie, die auf dem spezifischen Gebrauch von Konnektoren und Koreferenz von Deutschlernenden mit L1 Niederländisch fokussiert.
