@@ -1,5 +1,5 @@
 ---
-title: "TThe influence of L1 Dutch on cohesion in L2 German writing: Results from a contrastive corpus- based analysis of L1 and L2 students ́ writing in German "
+title: "The influence of L1 Dutch on cohesion in L2 German writing: Results from a contrastive corpus- based analysis of L1 and L2 students ́ writing in German "
 collection: talks
 type: "Presentation"
 permalink: /talks/LCRGrad
