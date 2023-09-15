@@ -71,13 +71,7 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Apr 2011 - Jan 2019: Youth group leader
@@ -86,3 +80,6 @@ Service and leadership
   * Ruhr University Bochum, Germany
 * Apr 2018 - Jun 2019: Speaker of the students’ representatives (Linguistics)
   * Ruhr University Bochum, Germany
+
+Skills
+======
