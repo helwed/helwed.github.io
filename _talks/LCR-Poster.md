@@ -21,6 +21,7 @@ For a research project aimed at investigating cohesive strategies deployed by L2
 An automatic pre-annotation of these categories has been performed with the help of CorZu (Tuggener, 2016: coreference), DimLex (Scheffler & Stede 2016; Stede 2002: connectives) and GermaNet (Hamp & Feldweg 1997; Henrich & Hinrichs 2010: synonyms, hyponyms und hypernyms). Based on the automated pre-annotation, manual annotations will be conducted, using the annotation platform Inception (Klie et al. 2018) and guidelines based on PTDB3 scheme (Webber et al. 2019: connectives), the co-reference guidelines developed by Reznicek et al. (2012) and lexical cohesive devices as presented in Tanskanen (2006). These guidelines will be put to the test and possibly revised after a pilot phase, depending on the inter-annotator agreement. The poster will introduce the corpus to the research community and show preliminary results of the analysis of cohesion retrieved from the automatic annotation. This includes an analysis of the homogeneity of the corpus to investigate learner-specific use of cohesive devices.
 
 **References**
+
 Abel, A., Wisniewski, K., Nicolas, L., Boyd, A., Hana, J., Meurers, D. (2014). A trilingual learner corpus illustrating European Reference Levels. Ricognizioni – Rivista di Lingue, Letterature e Culture Moderne, 2(1), 111–126.
 
 Dendooven, F. (2018). Die Übersetzung von Koreferenzmitteln: Eine Studie auf Basis eines deutsch– niederländischen Übersetzungskorpus von Museumstexten [Unpublished master's thesis]. Ghent University.

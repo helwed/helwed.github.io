@@ -83,3 +83,10 @@ Service and leadership
 
 Skills
 ======
+* **Languages**
+    * German - Native proficiency
+    * English - Professional working proficiency
+    * Dutch - Limited working proficiency
+    * French - Elementary proficiency
+* **Programming**: Python, Java, R
+* **Tools**: Microsoft Office, Apple iWork, PyCharm, R Studio
