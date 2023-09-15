@@ -1,13 +1,10 @@
 ---
-title: "PhD"
+title: "A corpus-based analysis of grammatical cohesion in L2 German: Insights into the effect of learners' native language on academic writing proficiency in a foreign language.
+"
 layout: archive
 permalink: /phd/
 author_profile: true
 ---
-
-
-A corpus-based analysis of grammatical cohesion in L2 German: Insights into the effect of learners' native language on academic writing proficiency in a foreign language.
-======
 
 Abstract
 ===
