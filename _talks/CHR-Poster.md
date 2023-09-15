@@ -3,7 +3,7 @@ title: "The Beldeko corpus: A new resource for investigating L2 German texts wri
 collection: talks
 type: "Poster"
 permalink: /talks/CHR-Poster
-venue: "Third comference on Computational Humanities Research (CHR),University of Antwerp, Belgium"
+venue: "Third conference on Computational Humanities Research (CHR), University of Antwerp"
 date: 2022-12-13
 location: "Antwerp, Belgium"
 ---

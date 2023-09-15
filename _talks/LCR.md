@@ -3,7 +3,7 @@ title: "The Beldeko corpus as a resource to investigate cohesion in German learn
 collection: talks
 type: "WiP Presentation"
 permalink: /talks/LCR
-venue: "6th Learner Corpus Research conference, Padua University, Italy"
+venue: "6th Learner Corpus Research conference, Padua University"
 date: 2022-09-23
 location: "Padua, Italy"
 ---

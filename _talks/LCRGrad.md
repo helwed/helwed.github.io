@@ -3,7 +3,7 @@ title: "The influence of L1 Dutch on cohesion in L2 German writing: Results from
 collection: talks
 type: "Presentation"
 permalink: /talks/LCRGrad
-venue: "LCRGrad 2023, Online"
+venue: "LCRGrad 2023"
 date: 2023-10-17
 location: "Online"
 ---

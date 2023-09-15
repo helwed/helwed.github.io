@@ -3,7 +3,7 @@ title: " Gebrauch von Kohäsionsmitteln im Deutschen als Fremdsprache von nieder
 collection: talks
 type: "Presentation"
 permalink: /talks/OLT
-venue: "Fehlerannotierte Lernerkorpora des Deutschen: Methodologie und Empirie, Online"
+venue: "Fehlerannotierte Lernerkorpora des Deutschen: Methodologie und Empirie"
 date: 2023-09-23
 location: "Online"
 ---

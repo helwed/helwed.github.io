@@ -3,7 +3,7 @@ title: "The Beldeko corpus as a resource to investigate cohesion in German learn
 collection: talks
 type: "Presentation"
 permalink: /talks/Anela
-venue: "Anela 2023, University of Antwerp, Belgium"
+venue: "Anela 2023, University of Antwerp"
 date: 2023-06-30
 location: "Antwerp, Belgium"
 ---
