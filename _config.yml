@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Helena Wedig"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Helena Wedig"
 description              : &description "Phd student of linguistics at University of Antwerp"
