@@ -1,12 +1,9 @@
 ---
-title: "GerSumCo"
+title: "German Summary Corpus (GerSumCo)"
 layout: archive
 permalink: /gersumco/
 author_profile: true
 ---
-
-German Summary Corpus (GerSumCo)
-===
 
 The GerSumCo (German Summary  Corpus) is a learner corpus that consists of syntheses written by advanced L2 German learners (CEFR level B2/C1) and L1 German natives. The corpus has been created with the aim to contrastively analyse the academic writing of L2 German and L2 German students.
 
