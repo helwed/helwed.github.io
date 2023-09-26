@@ -58,19 +58,6 @@ Hi, I am Helena! I am a Ph.D. research fellow at the University of Antwerp, Belg
   * Student counselling 
   * Supporting students with eCampus
 * **Skills**: Student Counseling · Office Administration · Microsoft Office
-  
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
 
 Voluntary work
 ======
@@ -98,3 +85,16 @@ Skills
     * French - Elementary proficiency
 * **Programming**: Python, Java, R
 * **Tools**: Microsoft Office, Apple iWork, PyCharm, R Studio
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
