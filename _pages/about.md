@@ -80,8 +80,14 @@ Voluntary work
   * Ruhr University Bochum, Germany
 * Apr 2018 - Jun 2019: Speaker of the students’ representatives (Linguistics)
   * Ruhr University Bochum, Germany
-* Sep 2023 - today: Teacher "Duits ophalen"
-  * Pannehoef Oosterhout, Netherlands
+  
+Other activities 
+======
+
+* Teacher "Duits ophalen" (Sep 2023 - today), Pannehoef Oosterhout, Netherlands
+* Lecturer of a session on "Introduction to Computational Linguistics" (2021,22 & 23), University of Antwerp, Belgium
+* Editorial assistant "Linguistica Antverpiensia, New Series – Themes in Translation Studies" (Sep 2021 - today), University of Antwerp, Belgium
+* Reviewer for Finnish Journal of Linguistics (2022)
 
 Skills
 ======

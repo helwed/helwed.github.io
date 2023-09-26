@@ -1,5 +1,5 @@
 ---
-title: "The Beldeko corpus as a resource to investigate cohesion in German learner language: A preliminary analysis of corpus homogeneity "
+title: "). Investigating connective use in L2 German: A corpus study"
 collection: talks
 type: "WiP Presentation"
 permalink: /talks/LCR
