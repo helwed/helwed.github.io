@@ -20,6 +20,18 @@ Hi, I am Helena! I am a Ph.D. research fellow at the University of Antwerp, Belg
   * Funded by **Research Foundation Flanders (FWO)**
 
 # Work experience
+### Jan 2021 - today: Pre-doctoral Research Fellow 
+* University of Antwerp, Belgium
+* **Tasks**
+  * Project management
+  * NLP
+  * Research
+  * Paper writing
+  * Conference presentations
+  * Corpus annotation & analysis
+* **Skills**: Microsoft Word · Microsoft PowerPoint · Writing · NLP · Project Management · Annotation · Statistics · Student Recruiting · Natural Language Processing (NLP) · Academic Writing · Microsoft Excel · Python · R · Microsoft Office · Data Processing · Data Collection · Conference Presentations · Publication Writing
+
+
 ### Sep 2019 - Dec 2020: Research Engineer
 * Fraunhofer IAIS, Dresden, Germany
 * **Tasks** 
