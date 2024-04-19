@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Helena Wedig"
 title_separator          : "-"
 name                     : &name "Helena Wedig"
-description              : &description "Phd student of Linguistics at University of Antwerp"
+description              : &description "Pre-doctoral Research Fellow in Linguistics at University of Antwerp"
 url                      : https://helwed.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "helwed.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Helena Wedig"
   avatar           : "Helena.png"
-  bio              : "Predoctoral researcher in Linguistics | Computational Linguist"
+  bio              : "Pre-doctoral Research Fellow in Linguistics | Computational Linguist"
   location         : "Oosterhout, Netherlands"
   employer         : "University of Antwerp"
   pubmed           :
