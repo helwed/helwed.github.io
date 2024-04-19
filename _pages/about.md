@@ -7,15 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am Helena! I am a Ph.D. research fellow at the University of Antwerp, Belgium!
+Hi, I am Helena! I am a Pre-doctoral Research Fellow at the University of Antwerp, Belgium!
 
-**Who am I?** After graduating in linguistics with a focus on computational linguistics in 2019, I used the last few years to first explore the industry while working at Fraunhofer IAIS, where I was able to develop skills in client communication, business proposal writing, and (agile) project management. After one year, I continued my academic career as a doctoral student in Antwerp, Belgium. As a Ph.D. student, I am currently enlarging my knowledge about corpus linguistics, statistical methods, academic writing, (academic) project management, and conference presentations.
+**Who am I?** After graduating in linguistics with a focus on computational linguistics in 2019, I used the last few years to first explore the industry while working at the Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS), where I was able to develop skills in client communication, business proposal writing, and (agile) project management. After one year, I continued my academic career as a Pre-doctoral Research Fellow in Antwerp, Belgium. As a Pre-doctoral Research Fellow, I am currently enlarging my knowledge about corpus linguistics, natural language processing (NLP), statistical methods, academic writing, (academic) project management, and conference presentations.
 
 # Education
 * **B.A.** in **(Computational) Linguistics**, Ruhr University Bochum, Germany, 2017
 * **B.A.** in **German studies**, Ruhr University Bochum, Germany, 2017
 * **M.A.** in **Computational Linguistics**, Ruhr University Bochum, 2019
-* Currently: **Ph.D.** in **Linguistics**, University of Antwerp, 2025 (expected)
+* Currently: **Ph.D.** in **Linguistics**, University of Antwerp
   * **Topic**: "A corpus-based analysis of grammatical cohesion in L2 German: Insights into the effect of learners' native language on academic writing proficiency in a foreign language."
   * Funded by **Research Foundation Flanders (FWO)**
 
@@ -29,6 +29,7 @@ Hi, I am Helena! I am a Ph.D. research fellow at the University of Antwerp, Belg
   * Paper writing
   * Conference presentations
   * Corpus annotation & analysis
+  * Statistical analysis (with R)
 * **Skills**: Microsoft Word · Microsoft PowerPoint · Writing · NLP · Project Management · Annotation · Statistics · Student Recruiting · Natural Language Processing (NLP) · Academic Writing · Microsoft Excel · Python · R · Microsoft Office · Data Processing · Data Collection · Conference Presentations · Publication Writing
 
 
@@ -95,8 +96,8 @@ Skills
     * English - Professional working proficiency
     * Dutch - Limited working proficiency
     * French - Elementary proficiency
-* **Programming**: Python, Java, R
-* **Tools**: Microsoft Office, Apple iWork, PyCharm, R Studio
+* **Programming**: Python, R, Java, C, C++
+* **Tools**: Microsoft Office, Apple iWork, PyCharm, R Studio, Google Analystics
 
 Publications
 ======
