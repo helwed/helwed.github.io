@@ -84,9 +84,10 @@ Voluntary work
 Other activities 
 ======
 
+* Member of the local organizing committee and website administrator of <a href="https://2024nits.github.io/index.html">NITS2024</a>.
 * Teacher "Duits ophalen" (Sep 2023 - today), Pannehoef Oosterhout, Netherlands
 * Lecturer of a session on "Introduction to Computational Linguistics" (2021,22 & 23), University of Antwerp, Belgium
-* Editorial assistant "Linguistica Antverpiensia, New Series – Themes in Translation Studies" (Sep 2021 - today), University of Antwerp, Belgium
+* Editorial assistant <a href="https://lans-tts.uantwerpen.be/index.php/LANS-TTS">"Linguistica Antverpiensia, New Series – Themes in Translation Studies"</a> (Sep 2021 - today), University of Antwerp, Belgium
 * Reviewer for Finnish Journal of Linguistics (2022)
 
 Skills
