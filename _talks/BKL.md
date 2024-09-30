@@ -6,6 +6,7 @@ permalink: /talks/BKL
 venue: "Linguists' Day (LSB), University of Antwerp"
 date: 2023-10-13
 location: "Antwerp, Belgium"
+role: "Presenter"
 ---
 
 **Abstract**

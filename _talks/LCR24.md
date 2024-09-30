@@ -2,10 +2,11 @@
 title: "The influence of L1 Dutch on cohesion in L2 German academic writing: A contrastive corpus-based analysis"
 collection: talks
 type: "Paper Presentation"
-permalink: /talks/LCR
+permalink: /talks/LCR24
 venue: "7th Learner Corpus Research conference, University of Tartu"
 date: 2024-09-26
 location: "Tartu, Estonia"
+role: "Presenter"
 ---
  
 

@@ -6,6 +6,7 @@ permalink: /talks/LCRGrad
 venue: "Graduate Student Conference in Learner Corpus Research 2023, Online"
 date: 2023-10-17
 location: "Online"
+role: "Presenter"
 ---
  
 

@@ -6,6 +6,7 @@ permalink: /talks/CHR-Poster
 venue: "Third conference on Computational Humanities Research (CHR), University of Antwerp"
 date: 2022-12-13
 location: "Antwerp, Belgium"
+role: "Presenter"
 ---
 **Abstract**
 

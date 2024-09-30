@@ -6,6 +6,7 @@ permalink: /talks/LCR-Poster
 venue: "6th Learner Corpus Research conference, Padua University"
 date: 2022-09-23
 location: "Padua, Italy"
+role: "Presenter"
 ---
  
 

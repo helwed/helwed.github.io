@@ -6,6 +6,7 @@ permalink: /talks/Anela
 venue: "Anela / VIOT Juniorendag 2023, University of Antwerp"
 date: 2023-06-30
 location: "Antwerp, Belgium"
+role: "Presenter"
 ---
 
 **Abstract**

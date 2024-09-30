@@ -6,6 +6,7 @@ permalink: /talks/GaC
 venue: "Grammar & Corpora 2022, Ghent University"
 date: 2022-06-30
 location: "Ghent, Belgium"
+role: "Presenter"
 ---
  
 
