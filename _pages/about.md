@@ -83,22 +83,23 @@ Voluntary work
   
 Other activities 
 ======
-
+* Panel chair at LCR 2024, NITS 2024, Graduate Student Conference in Learner Corpus Research 2023 & Learner Language Day UAntwerp 2023
 * Member of the local organizing committee and website administrator of <a href="https://2024nits.github.io/index.html">NITS2024</a>.
-* Teacher "Duits ophalen" (Sep 2023 - today), Pannehoef Oosterhout, Netherlands
 * Lecturer of a session on "Introduction to Computational Linguistics" (2021,22 & 23), University of Antwerp, Belgium
-* Editorial assistant <a href="https://lans-tts.uantwerpen.be/index.php/LANS-TTS">"Linguistica Antverpiensia, New Series – Themes in Translation Studies"</a> (Sep 2021 - today), University of Antwerp, Belgium
+* Editorial assistant <a href="https://lans-tts.uantwerpen.be/index.php/LANS-TTS">"Linguistica Antverpiensia, New Series – Themes in Translation Studies"</a> (Sep 2021 - Oct 2024), University of Antwerp, Belgium
 * Reviewer for Finnish Journal of Linguistics (2022)
+* Teacher "Duits ophalen" (Sep 2023 - today), Pannehoef Oosterhout, Netherlands
+
 
 Skills
 ======
 * **Languages**
-    * German - Native proficiency
-    * English - Professional working proficiency
-    * Dutch - Limited working proficiency
-    * French - Elementary proficiency
+    * German - Native proficiency (C2)
+    * English - Professional working proficiency (C1)
+    * Dutch - Limited working proficiency (B2)
+    * French - Elementary proficiency (A2/B1)
 * **Programming**: Python, R, Java, C, C++
-* **Tools**: Microsoft Office, Apple iWork, PyCharm, R Studio, Google Analystics
+* **Tools**: Microsoft Office, Apple iWork, PyCharm, R Studio, Google Analytics
 
 Publications
 ======
