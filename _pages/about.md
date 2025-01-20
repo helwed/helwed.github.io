@@ -84,11 +84,11 @@ Voluntary work
 Other activities 
 ======
 * Panel chair at LCR 2024, NITS 2024, Graduate Student Conference in Learner Corpus Research 2023 & Learner Language Day UAntwerp 2023
-* Member of the local organizing committee and website administrator of <a href="https://2024nits.github.io/index.html">NITS2024</a>.
-* Lecturer of a session on "Introduction to Computational Linguistics" (2021,22 & 23), University of Antwerp, Belgium
-* Editorial assistant <a href="https://lans-tts.uantwerpen.be/index.php/LANS-TTS">"Linguistica Antverpiensia, New Series – Themes in Translation Studies"</a> (Sep 2021 - Oct 2024), University of Antwerp, Belgium
+* Member of the local organizing committee and website administrator of [NITS2024](https://2024nits.github.io/index.html).
+* Lecturer of sessions on "Introduction to Computational Linguistics" (2021, 2022 & 2023), University of Antwerp, Belgium
+* Editorial assistant [Linguistica Antverpiensia, New Series – Themes in Translation Studies](https://lans-tts.uantwerpen.be/index.php/LANS-TTS) (Sep 2021 - Oct 2024), University of Antwerp, Belgium
 * Reviewer for Finnish Journal of Linguistics (2022)
-* Teacher "Duits ophalen" (Sep 2023 - today), Pannehoef Oosterhout, Netherlands
+* Teacher "Duits ophalen" (Sep 2023 – today), Pannehoef Oosterhout, Netherlands
 
 
 Skills

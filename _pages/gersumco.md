@@ -12,4 +12,4 @@ The summaries consist on average of 230 words each. The texts were written in pe
 
 Planned publication of the corpus
 ===
-The GerSumCo is published and is stored in the <a href:"http://hdl.handle.net/20.500.12124/81">Eurac Research CLARIN Centre Repository</a>
+The GerSumCo is published and is stored in the [Eurac Research CLARIN Centre Repository](http://hdl.handle.net/20.500.12124/81).
