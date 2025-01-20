@@ -2,7 +2,7 @@
 title: "A corpus-based analysis of grammatical cohesion in L2 German: Insights into the effect of learners’ native language on academic writing proficiency in a foreign language"
 collection: talks
 type: "Presentation"
-permalink: /talks/Anela
+permalink: /talks/E-Anela
 venue: "Anela / VIOT Juniorendag 2023, University of Antwerp"
 date: 2023-06-30
 location: "Antwerp, Belgium"

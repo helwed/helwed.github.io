@@ -2,7 +2,7 @@
 title: "Investigating connective use in L2 German: A corpus study"
 collection: talks
 type: "WiP Presentation"
-permalink: /talks/LCR
+permalink: /talks/B-LCR
 venue: "6th Learner Corpus Research conference, Padua University"
 date: 2022-09-23
 location: "Padua, Italy"

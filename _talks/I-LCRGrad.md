@@ -2,7 +2,7 @@
 title: "The influence of L1 Dutch on cohesion in L2 German writing: Results from a contrastive corpus- based analysis of L1 and L2 students ́ writing in German "
 collection: talks
 type: "Presentation"
-permalink: /talks/LCRGrad
+permalink: /talks/I-LCRGrad
 venue: "Graduate Student Conference in Learner Corpus Research 2023, Online"
 date: 2023-10-17
 location: "Online"

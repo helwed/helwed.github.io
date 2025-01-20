@@ -2,7 +2,7 @@
 title: "Investigating coreference use in L2 German: A corpus study"
 collection: talks
 type: "Presentation"
-permalink: /talks/BKL
+permalink: /talks/H-BKL
 venue: "Linguists' Day (LSB), University of Antwerp"
 date: 2023-10-13
 location: "Antwerp, Belgium"

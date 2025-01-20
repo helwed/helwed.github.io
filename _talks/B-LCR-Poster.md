@@ -2,7 +2,7 @@
 title: "The Beldeko corpus: A new resource for investigating L2 German texts written by L1 Dutch students"
 collection: talks
 type: "Poster"
-permalink: /talks/LCR-Poster
+permalink: /talks/B-LCR-Poster
 venue: "6th Learner Corpus Research conference, Padua University"
 date: 2022-09-23
 location: "Padua, Italy"

@@ -1,7 +1,7 @@
 ---
 title: "Die Bewertung von Kohärenz und Kohäsion in narrativen DaF-Texten : eine korpusbasierte Untersuchung sprachlicher Einflussfaktoren"
 collection: publications
-permalink: /publications/2022-01-01-Bewertung-Kohaerenz-1
+permalink: /publications/A-2022-01-01-Bewertung-Kohaerenz-1
 date: 01-01-2022
 venue: 'Zeitschrift für interkulturellen Fremdsprachenunterricht'
 paperurl: 'https://ojs.tujournals.ulb.tu-darmstadt.de/index.php/zif/article/view/1172/1167'

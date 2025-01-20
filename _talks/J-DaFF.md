@@ -2,7 +2,7 @@
 title: "Textsortenspezifische Charakteristika in der Nutzung von Konnektiven bei DaF-Lernenden? Eine korpusbasierte Untersuchung"
 collection: talks
 type: "Presentation"
-permalink: /talks/DaFF
+permalink: /talks/J-DaFF
 venue: "DaFF-Nachwuchstagung"
 date: 2024-01-27"
 location: "Berlin, Germany & Online"

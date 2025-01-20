@@ -1,7 +1,7 @@
 ---
 title: "The Beldeko corpus as a resource to investigate cohesion in German learner language: A preliminary analysis of corpus homogeneity."
 collection: publications
-permalink: /publications/2025-01-01-HowToDoThings
+permalink: /publications/G-2025-01-01-HowToDoThings
 date: 01-03-2025
 venue: 'How to Do Things with Corpora - Methodological Issues and Case Studies. Empirical and Theoretical Linguistics. J.B. Metzler.'
 paperurl: 'https://link.springer.com/book/9783662696897#overview'

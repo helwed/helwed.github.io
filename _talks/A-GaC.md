@@ -2,7 +2,7 @@
 title: "The Beldeko corpus as a resource to investigate cohesion in German learner language: A preliminary analysis of corpus homogeneity "
 collection: talks
 type: "Presentation"
-permalink: /talks/GaC
+permalink: /talks/A-GaC
 venue: "Grammar & Corpora 2022, Ghent University"
 date: 2022-06-30
 location: "Ghent, Belgium"

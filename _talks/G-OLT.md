@@ -2,7 +2,7 @@
 title: "Gebrauch von Kohäsionsmitteln im Deutschen als Fremdsprache von niederländischen Lernenden: Konnektoren und Koreferenz im Beldeko-Korpus"
 collection: talks
 type: "Presentation"
-permalink: /talks/OLT
+permalink: /talks/G-OLT
 venue: "Fehlerannotierte Lernerkorpora des Deutschen: Methodologie und Empirie"
 date: 2023-09-23
 location: "Online"
