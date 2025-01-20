@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am Helena! I am a data scientist, communications specialist and linguist currently looking for my next job opportunity.
+Hi, I am Helena! I am a data scientist, communication specialist and linguist currently looking for my next job opportunity.
 
 **Who am I?** After graduating in linguistics with a focus on computational linguistics in 2019, I used the last few years to first explore the industry while working at the Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS), where I was able to develop skills in client communication, business proposal writing, and (agile) project management. After one year, I continued my academic career as a Pre-doctoral Research Fellow in Antwerp, Belgium. As a Pre-doctoral Research Fellow, I enlarged my knowledge about corpus linguistics, natural language processing (NLP), statistical methods, academic writing, (academic) project management, and conference presentations. I will defend my PhD in March 2025.
 
