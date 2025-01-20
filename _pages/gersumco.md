@@ -12,4 +12,4 @@ The summaries consist on average of 230 words each. The texts were written in pe
 
 Planned publication of the corpus
 ===
-We plan to publish the annotated corpus (POS, connectives, coreference) in late 2024.
+The GerSumCo is published and is stored in the <a href:"http://hdl.handle.net/20.500.12124/81">Eurac Research CLARIN Centre Repository</a>
