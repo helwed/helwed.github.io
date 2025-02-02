@@ -14,9 +14,9 @@ Hi, I am Helena! I am a data scientist, communication specialist and linguist cu
 # Education
 * **B.A.** in **(Computational) Linguistics**, Ruhr University Bochum, Germany, 2017
 * **B.A.** in **German studies**, Ruhr University Bochum, Germany, 2017
-* **M.A.** in **Computational Linguistics**, Ruhr University Bochum, 2019
+* **M.A.** in **(Computational) Linguistics**, Ruhr University Bochum, 2019
 * Currently: **Ph.D.** in **Linguistics**, University of Antwerp (Defence on 17 March 2025)
-  * **Topic**: "A corpus-based analysis of grammatical cohesion in L2 German: Insights into the effect of learners' native language on academic writing proficiency in a foreign language."
+  * **Topic**: "A corpus-based analysis of connectives in L2 German. Insights into the effect of learners’ native language on academic writing in a foreign language"
   * Funded by **Research Foundation Flanders (FWO)**
 
 # Work experience
