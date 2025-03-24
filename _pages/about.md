@@ -7,15 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am Helena! I am a data scientist, communication specialist and linguist currently looking for my next job opportunity.
+**Hi, I am Helena!** 
 
-**Who am I?** After graduating in linguistics with a focus on computational linguistics in 2019, I used the last few years to first explore the industry while working at the Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS), where I was able to develop skills in client communication, business proposal writing, and (agile) project management. After one year, I continued my academic career as a Pre-doctoral Research Fellow in Antwerp, Belgium. As a Pre-doctoral Research Fellow, I enlarged my knowledge about corpus linguistics, natural language processing (NLP), statistical methods, academic writing, (academic) project management, and conference presentations. I will defend my PhD in March 2025.
+After graduating in linguistics with a focus on computational linguistics in 2019, I used the last few years to first explore the industry while working at the Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS), where I was able to develop skills in client communication, business proposal writing, and (agile) project management. After one year, I continued my academic career as a Pre-doctoral Research Fellow in Antwerp, Belgium. As a Pre-doctoral Research Fellow, I enlarged my knowledge about corpus linguistics, natural language processing (NLP), statistical methods, academic writing, (academic) project management, and conference presentations. I obtained my PhD in March 2025.
 
 # Education
 * **B.A.** in **(Computational) Linguistics**, Ruhr University Bochum, Germany, 2017
 * **B.A.** in **German studies**, Ruhr University Bochum, Germany, 2017
 * **M.A.** in **(Computational) Linguistics**, Ruhr University Bochum, 2019
-* Currently: **Ph.D.** in **Linguistics**, University of Antwerp (Defence on 17 March 2025)
+* **Ph.D.** in **Linguistics**, University of Antwerp, March 2025
   * **Topic**: "A corpus-based analysis of connectives in L2 German. Insights into the effect of learners’ native language on academic writing in a foreign language"
   * Funded by **Research Foundation Flanders (FWO)**
 
