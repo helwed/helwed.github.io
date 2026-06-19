@@ -7,4 +7,4 @@ In the course of my career, I gave several workshops. You can download and acces
 
 ### 26 Jun 2026: From raw text to annotated corpora: A practical introduction to INCEpTION
 * University of Antwerp, Belgium
-Find the script for the course soon here
+Find the script for the course soon [here](inception.qmd)
