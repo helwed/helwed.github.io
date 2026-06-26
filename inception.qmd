@@ -254,10 +254,10 @@ To annotate a relation or a chain you have to click on an already annotated elem
 After marking the relation you can annotate what kind of relation it is. Afterward, it will be shown between (or above) the two elements.
 
 ## Exercises - Annotation
-### Exercise 5a
+### Exercise 4a
 Annotate the europarl.txt document with your layer and tagset according to the guidelines that you can find [online](https://universaldependencies.org/u/feat/index.html). You are now the "expert" of your layer.
 
-### Exercise 5b
+### Exercise 4b
 Depending on the time, we will do this in four rounds (in a group of four):
 1. Sit together and decide which of the four layers you want to annotate. The "expert" explains the annotation layer and the tagset.
 2. Sit away from each other: Annotate the text document that the "expert" of that specific layer had uploaded.
@@ -284,10 +284,10 @@ You can also use INCEpTION to have a look at the annotation agreement between an
 
 ## Exercises - Curation and Agreement
 
-### Exercise 6a
+### Exercise 5a
 Sit together and curate the annotations that you made.
 
-### Exercise 6b
+### Exercise 5b
 Calculate your annotator agreement.
 
 ## Export your data
