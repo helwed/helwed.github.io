@@ -31,7 +31,14 @@ After graduating in linguistics with a focus on computational linguistics in 201
 # Work experience
 ### Jun 2025 – today: Research Software and Interoperability Training Lead 
 * Erasmus University Rotterdam
-
+* **Tasks**
+  * Coordinate Research Software Training at EUR
+  * Member of EUR Digital Competence Center
+  * Give training on Python & R
+  * Raise awareness on interoperability
+  * Take part in national networks on Research Software and Interoperability
+* **Skills**: Project Management · Microsoft Powerpoint · Python · R · Quarto · Markdown · Presentation · Coordination
+  
 
 ### Jan 2021 - Oct 2024: Pre-doctoral Research Fellow 
 * University of Antwerp, Belgium

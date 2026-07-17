@@ -2,5 +2,44 @@
 title: "Publications"
 ---
 
-About this site
+# Paper & Book chapters
 
+Wedig, H. & Strobl, C. (2022). Die Bewertung von Kohärenz und Kohäsion in narrativen DaF-Texten. Eine korpusbasierte Untersuchung sprachlicher Einflussfaktoren. Zeitschrift für Interkulturellen Fremdsprachenunterricht, 27(1), 369–396. [https://zif.tujournals.ulb.tu-darmstadt.de/article/id/3378/](https://zif.tujournals.ulb.tu-darmstadt.de/article/id/3378/)
+
+Wedig, H., Amet, B., Goschler, J. & Strobl, C. (2024). Aufgabentyp-spezifischer Konnektivgebrauch in schriftlichen Texten von DaF-Lernenden. Eine korpusbasierte Untersuchung. Korpora Deutsch als Fremdsprache, 4(2), 126–148. [https://doi.org/10.48694/kordaf.4129](https://doi.org/10.48694/kordaf.4129).
+
+Wedig, H., Theodor, F., Wieler, J. & Belke, E. (2024). PLD2flex: Establishing the Phonological Levenshtein Distance for Pairs or Groups of (Pseudo)Words. Journal of open research software, 12 (1), [https://doi.org/10.5334/jors.510](https://doi.org/10.5334/jors.510).
+
+Wedig, H., Strobl, C., Ureel, J. J. J., & Mortelmans, T. (2025). The Beldeko corpus as a resource to investigate cohesion in German learner language: A preliminary analysis of corpus homogeneity. In T. Leuschner, J. Barðal, G. Delaby & A. Vajnovszki (Eds.), How to Do Things with Corpora - Methodological Issues and Case Studies. Empirical and Theoretical Linguistics. J.B. Metzler. [https://doi.org/10.1007/978-3-662-69690-3_2](https://doi.org/10.1007/978-3-662-69690-3_2).
+
+Wedig, H., Strobl, C., Ureel, J. J. J., & Mortelmans, T. (2025). The use of connectives in L2 German writing by L1 Dutch students: A learner corpus study. In Katherine Ackerley & Erik Castello (Eds.), Continuing Learner Corpus Research: Challenges and Opportunities (pp. 213–243). Presses universitaires de Louvain. [Link to book](https://pul.uclouvain.be/book/?GCOI=29303100485770)
+
+Wedig, H. , Strobl, C. Ureel, J. J. J., Mortelmans, T. & Weber, L. (2026). The influence of L1 Dutch on connective use in L2 German academic writing: A contrastive corpus-based analysis. International Journal of Learner Corpus Research, 12 (1), 2-36. [https://doi.org/10.1075/ijlcr.24028.wed](https://doi.org/10.1075/ijlcr.24028.wed).
+
+# Corpora
+
+Ortmann, K. & Wedig, H. (2024). KidRef. Ein Kinderreferenzkorpus. Bochumer Linguistische Arbeitsberichte (BLA), 26. [https://www.linguistics.rub.de/forschung/arbeitsberichte/26.pdf](https://www.linguistics.rub.de/forschung/arbeitsberichte/26.pdf)
+
+Strobl, C. & Wedig, H. (2023). Beldeko Summary Corpus v1.1.0, Eurac Research CLARIN Centre, [http://hdl.handle.net/20.500.12124/68](http://hdl.handle.net/20.500.12124/68).
+
+Wedig, H. & Strobl, C. (2024). German Summary Corpus (GerSumCo) v1.0.0, Eurac Research CLARIN Centre, [http://hdl.handle.net/20.500.12124/81](http://hdl.handle.net/20.500.12124/81).
+
+# Doctoral Dissertation
+
+Wedig, H. (2025). A corpus-based analysis of connectives in L2 German : insights into the effect of learners native language on academic writing in a foreign language. [Doctoral dissertation, University of Antwerp]. Repository UAntwerp. [https://doi.org/10.63028/10067/2123600151162165141](https://doi.org/10.63028/10067/2123600151162165141)
+
+# Educational material
+
+Wedig, H. (2026). Automating Tasks with Python. Zenodo. [https://doi.org/10.5281/zenodo.19496000](https://doi.org/10.5281/zenodo.19496000)
+
+Wedig, H. (2026). Clean your data efficiently using Python. Zenodo. [https://doi.org/10.5281/zenodo.19496686](https://doi.org/10.5281/zenodo.19496686)
+
+Wedig, H. (2026). Manage your data using Python. Zenodo. [https://doi.org/10.5281/zenodo.19496926](https://doi.org/10.5281/zenodo.19496926)
+
+Wedig, H. (2026). IDEs and virtual environments. Zenodo. [https://doi.org/10.5281/zenodo.19735738](https://doi.org/10.5281/zenodo.19735738)
+
+# Presentations
+
+Summers, C., Sunami, N., Teunisse, M., Wedig, H., Bartholdy, B. P., Hodgskin, N., Huang, Y., Moopen, N.& Paltarzhitskaya, A. (2025). Developing a roadmap for FAIR software skills. Zenodo. [https://doi.org/10.5281/zenodo.17864336](https://doi.org/10.5281/zenodo.17864336)
+
+Wedig, H. (2026). Understanding Interoperability. Zenodo. [https://doi.org/10.5281/zenodo.19053074](https://doi.org/10.5281/zenodo.19053074)
