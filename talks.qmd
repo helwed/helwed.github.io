@@ -1,0 +1,26 @@
+# Talks at conferences
+
+**Grammar & Corpora 2022 (30th June 2022, Ghent, Belgium):** The Beldeko corpus as a resource to investigate cohesion in German learner language: A preliminary analysis of corpus homogeneity [Presentation].
+
+**6th Learner Corpus Research conference (LCR) (23rd September 2022, Padua, Italy):** Investigating connective use in L2 German: A corpus study [WiP presentation].
+
+**6th Learner Corpus Research conference (LCR) (23rd September 2022, Padua, Italy):** The Beldeko corpus: A new resource for investigating L2 German texts written by L1 Dutch students [Poster presentation].
+
+**Third conference on Computational Humanities Research (CHR) (13th December 2022, Antwerp, Belgium):** The Beldeko corpus: A new resource for investigating L2 German texts written by L1 Dutch students [Poster presentation].
+
+**Meeting of the Network of Interdisciplinary Translation Studies in the Netherlands and Flanders (NITS) (2nd June 2023, Leiden, Netherlands):** Varioversals in German-Dutch translation and L2 German writing: Annotation guidelines for co-reference and a case study [Co-presentation].
+
+**Anela / VIOT Juniorendag 2023(30th June 2023, Antwerp, Belgium):** A corpus-based analysis of grammatical cohesion in L2 German: Insights into the effect of learners’ native language on academic writing proficiency in a foreign language [Presentation].
+
+**The 32nd Conference of the European Second Language Association (EuroSLA) (1st September 2023, Birmingham, England):** The German Summary corpus (GerSumCo): A new resource for contrastive research into L2 German of advanced writers [Poster presentation].
+
+**Fehlerannotierte Lernerkorpora des Deutschen: Methodologie und Empirie (23rd September 2023, Online):** Gebrauch von Kohäsionsmitteln im Deutschen als Fremdsprache von niederländischen Lernenden: Konnektoren und Koreferenz im Beldeko-Korpus [Presentation].
+
+**Linguists' Day (LSB) (13th October 2023, Antwerp, Belgium):** Investigating coreference use in L2 German: A corpus study [Presentation].
+
+**Graduate Student Conference in Learner Corpus Research 2023 (17th October 2023, Online):** The influence of L1 Dutch on cohesion in L2 German writing: Results from a contrastive corpus- based analysis of L1 and L2 students ́ writing in German [Presentation].
+
+**DaFF-Nachwuchstagung (27th January 2024, Berlin, Germany & Online):** Textsortenspezifische Charakteristika in der Nutzung von Konnektiven bei DaF-Lernenden? Eine korpusbasierte Untersuchung [Co-presentation].
+
+**7th Learner Corpus Research conference (LCR) (26th September 2024, Tartu, Estonia):** The influence of L1 Dutch on cohesion in L2 German academic writing: A contrastive corpus-based analysis [Paper presentation].
+
