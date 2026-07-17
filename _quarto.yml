@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Helena Wedig"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - gersumco.qmd
+      - workshops.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    page-layout: full
+
+
+
